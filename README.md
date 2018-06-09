@@ -1,0 +1,2 @@
+# Jewel_Billing
+: What our “Jewel_Billing ” does is, when a customer purchases an ornament and is ready for billing, it automatically generates the bill as you enter the item ID. So it would be very much useful to sellers as it is time efficient and moreover it would nullify any sort of human errors that would result in losses. This is very useful to maintain records of every item in every aspect.
